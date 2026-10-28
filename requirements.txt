@@ -1,0 +1,7 @@
+openai
+python-dotenv
+beautifulsoup4
+requests
+gradio
+langchain
+langchain-groq
